@@ -15,18 +15,18 @@ body{
     color: var(--cor-principal);
 }
 .principal{
-    background-image: url("img/images.jpeg");
+    background-image: url("img/divertidamente\ 1.png");
     text-align: center;
 }
 .container{
-    height: 120vh;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .maracuja{
     font-family: "Nosifer", sans-serif;
-  font-weight: 100;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -54,6 +54,6 @@ body{
 
 .botoes{
     display:grid;
-    grid-template-columns: 20% 16% 16% 16% 16% 16% 20%;
+    grid-template-columns: 10% 16% 16% 16% 16% 16% 10%;
 
 }
